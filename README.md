@@ -11,7 +11,7 @@ Curated gameplay, QoL, graphics, and item cheats for Pokémon Legends Z-A. These
 ## Install
 1) Open Eden Nightly
 2) Right-click the game > Open Mod Folder
-3) Download the latest release ZIP of this repo
+3) Download the latest release ZIP of this repo [here](https://github.com/borgox/Pokemon-Legends-Z-A-Mods/releases/tag/release)
 4) Extract the ZIP contents into the mod folder
 
 Notes:

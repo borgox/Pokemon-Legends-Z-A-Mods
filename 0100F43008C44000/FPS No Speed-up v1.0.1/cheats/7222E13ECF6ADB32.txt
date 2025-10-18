@@ -1,0 +1,7 @@
+[60FPS No Speed-up v1.0.1]
+{The 60fps itself comes with Game speed2x}
+{Game Speed-0.5x}
+{Then 60fps with game speed-1x}
+040B0000 019E37A8 1400000B
+040B0000 031E6A78 00FE502B
+

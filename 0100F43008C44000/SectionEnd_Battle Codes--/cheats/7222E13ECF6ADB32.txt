@@ -1,0 +1,7 @@
+[--SectionEnd:Battle Codes--]
+20000001
+
+"Pokémon Legends: Z-A v1.0.1"
+TID: 0100F43008C44000
+BID: 7222E13ECF6ADB32
+

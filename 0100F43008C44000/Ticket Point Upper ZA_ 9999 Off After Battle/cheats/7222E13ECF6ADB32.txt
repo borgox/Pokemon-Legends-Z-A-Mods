@@ -1,0 +1,3 @@
+[#40 Ticket Point Upper ZA: 9999 Off After Battle]
+04000000 00BB301C 0B160108
+

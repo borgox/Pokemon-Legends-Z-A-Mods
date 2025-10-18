@@ -1,0 +1,3 @@
+[#44 Player Does Not Faint (Off/Disabled)]
+04000000 02BD7E8C B900B2F3
+

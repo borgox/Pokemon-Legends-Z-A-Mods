@@ -1,0 +1,3 @@
+[Player doesn't black out]
+040A0000 02BD7E74 B40000A0
+

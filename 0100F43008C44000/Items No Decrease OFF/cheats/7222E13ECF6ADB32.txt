@@ -1,0 +1,3 @@
+[#34 Items No Decrease OFF]
+04000000 007AAC98 F9000102
+

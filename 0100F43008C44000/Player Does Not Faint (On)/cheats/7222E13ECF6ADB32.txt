@@ -1,0 +1,3 @@
+[#43 Player Does Not Faint (On)]
+04000000 02BD7E8C D503201F
+

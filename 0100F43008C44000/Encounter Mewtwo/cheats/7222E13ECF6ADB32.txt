@@ -1,0 +1,4 @@
+[Encounter 150 Mewtwo]
+040A0000 02FC7FF0 00000096 
+
+

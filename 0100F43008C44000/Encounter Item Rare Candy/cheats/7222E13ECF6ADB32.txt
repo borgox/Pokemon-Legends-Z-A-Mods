@@ -1,0 +1,3 @@
+[Encounter Item Rare Candy]
+040A0000 02FC7FF8 00000032
+
